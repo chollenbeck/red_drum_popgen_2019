@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549297743872.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "426249313",
+    "id" : "5FB4CAFD",
+    "lastKnownWriteTime" : 1527239210,
+    "last_content_update" : 1527239210,
+    "path" : "~/Dropbox/work/projects/red_drum_popgen_2019/data/raw/drum_sample_data.txt",
+    "project_path" : "data/raw/drum_sample_data.txt",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549297100101.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8990C553",
+    "lastKnownWriteTime" : 1549297398,
+    "last_content_update" : 1549297398593,
+    "path" : "~/Dropbox/work/projects/red_drum_popgen_2019/R/rda_figure.R",
+    "project_path" : "R/rda_figure.R",
+    "properties" : {
+        "cursorPosition" : "203,0",
+        "scrollLine" : "182"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

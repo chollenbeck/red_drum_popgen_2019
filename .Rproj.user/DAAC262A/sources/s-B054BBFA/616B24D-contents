@@ -1,0 +1,100 @@
+library(adegenet)
+library(ggplot2)
+library(dplyr)
+library(gridExtra)
+
+
+### Shared variables
+
+pca_col <- c('#9e0142','#d53e4f','#f46d43','#fdae61','#a1d99b','#41ab5d','#00441b','#4eb3d3','#2b8cbe','#0868ac','#084081')
+reg_col <- c('#9e0142', '#41ab5d', '#2b8cbe')
+
+regions <- read.table("data/region_mappings.txt", header = TRUE)
+
+### PCA - neutral only ---------------------------
+
+out_gen <- read_genepop("out/final_outliers.gen")
+
+
+# Plot a PCA using only outral loci
+x_out <- scaleGen(out_gen, NA.method="mean")
+out_pca <- dudi.pca(x_out,center=FALSE,scale=FALSE,scannf=FALSE,nf=4)
+
+
+eig_percent_out <- round((out_pca$eig/(sum(out_pca$eig)))*100,2)
+
+pca_dat_out <- as.data.frame(out_pca$li)
+pca_dat_out <- cbind(pca_dat_out, pop = pop(out_gen))
+pca_dat_out$pop <- gsub("_\\d+", "", pca_dat_out$pop, perl=TRUE)
+pca_dat_out$pop <- gsub("LM2", "LLM", pca_dat_out$pop, perl=TRUE)
+pca_dat_out$pop <- gsub("MB2", "MAT", pca_dat_out$pop, perl=TRUE)
+
+pca_dat_out <- left_join(pca_dat_out, regions, by = "pop")
+pca_dat_out$region <- factor(pca_dat_out$region, levels = c("WGULF", "EGULF", "ATL"))
+pca_dat_out$pop <- factor(pca_dat_out$pop, levels = c("LLM", "MAT", "SAB", "MIS", "APA", "CEK", "CHA", "IND", "HAR", "WAS", "SCA"))
+
+
+# Get just the PCA legend
+pca_legend <- get_legend(
+    ggplot(data=pca_dat_out) +
+        geom_point(aes(x=Axis1, y=Axis2, colour=pop), size=12, alpha=0.8) +
+        scale_colour_manual(values = pca_col, name = "Locality") +
+        rd_theme +
+        theme(axis.title.y = element_text(vjust = 0.5, angle = 90),
+              legend.text = element_text(size = 18),
+              legend.title = element_text(size = 20, face = "bold")) +
+        labs(x = paste("", "Axis 1: ", eig_percent_out[1], "%"), y = paste("", "Axis 2: ", eig_percent_out[2], "%"))
+)
+
+
+
+pca <- ggplot(data=pca_dat_out) +
+    geom_point(aes(x=Axis1, y=Axis2, colour=pop), size=7, alpha=0.8) +
+    scale_colour_manual(values = pca_col) +
+    rd_theme +
+    theme(legend.position = "none",
+          axis.title.x = element_blank(),
+          axis.title.y = element_blank(),
+          axis.text = element_blank()) +
+    labs(x = paste("", "Axis 1: ", eig_percent_out[1], "%"), y = paste("", "Axis 2: ", eig_percent_out[2], "%"))
+
+
+blankPlot <- ggplot()+geom_blank(aes(1,1))+
+    theme(
+        plot.background = element_blank(), 
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(), 
+        panel.border = element_blank(),
+        panel.background = element_blank(),
+        axis.title.x = element_blank(),
+        axis.title.y = element_blank(),
+        axis.text.x = element_blank(), 
+        axis.text.y = element_blank(),
+        axis.ticks = element_blank(),
+        axis.line = element_blank()
+    )
+
+x_density <- ggplot(data=pca_dat_out) +
+    geom_density(aes(Axis1, fill = region), alpha = 0.5) +
+    scale_fill_manual(values = reg_col) +
+    rd_theme +
+    theme(legend.position = "none",
+          axis.title.x = element_blank(),
+          axis.title.y = element_blank(),
+          axis.text = element_blank())
+
+y_density <- ggplot(data=pca_dat_out) +
+    geom_density(aes(Axis2, fill = region), alpha = 0.5) +
+    scale_fill_manual(values = reg_col) +
+    rd_theme +
+    theme(legend.position = "none",
+          axis.title.x = element_blank(),
+          axis.title.y = element_blank(),
+          axis.text = element_blank()) +
+    coord_flip()
+
+grid.arrange(x_density, blankPlot, pca, y_density, 
+             ncol=2, nrow=2, widths=c(4, 1), heights=c(1, 4))
+
+
+

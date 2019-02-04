@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549298182646.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1626234415",
+    "id" : "16C39787",
+    "lastKnownWriteTime" : 1549298536,
+    "last_content_update" : 1549298536441,
+    "path" : "~/Dropbox/work/projects/red_drum_popgen_2019/R/fst_by_heterozygosity_figure.R",
+    "project_path" : "R/fst_by_heterozygosity_figure.R",
+    "properties" : {
+        "cursorPosition" : "18,102",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

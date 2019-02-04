@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549297859911.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "902DEB82",
+    "lastKnownWriteTime" : 1549298160,
+    "last_content_update" : 1549298160815,
+    "path" : "~/Dropbox/work/projects/red_drum_popgen_2019/R/temporal_pca_figure.R",
+    "project_path" : "R/temporal_pca_figure.R",
+    "properties" : {
+        "cursorPosition" : "46,0",
+        "scrollLine" : "27"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

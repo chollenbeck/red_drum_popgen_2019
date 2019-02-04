@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549295204864.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D7EBE7F1",
+    "lastKnownWriteTime" : 1549295655,
+    "last_content_update" : 1549295655984,
+    "path" : "~/Dropbox/work/projects/red_drum_popgen_2019/R/drum_sample_map.R",
+    "project_path" : "R/drum_sample_map.R",
+    "properties" : {
+        "cursorPosition" : "59,0",
+        "scrollLine" : "39"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

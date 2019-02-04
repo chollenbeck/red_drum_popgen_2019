@@ -1,0 +1,3 @@
+Statistic	P-value
+Neutral	0.795	0.001
+Outliers	0.355	0.031

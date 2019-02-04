@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549297719311.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "652154394",
+    "id" : "A890F010",
+    "lastKnownWriteTime" : 1492696873,
+    "last_content_update" : 1492696873,
+    "path" : "~/Dropbox/work/projects/red_drum_popgen_2019/data/raw/neut_fst_tbl.txt",
+    "project_path" : "data/raw/neut_fst_tbl.txt",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

@@ -1,0 +1,626 @@
+Sample	Library	Locality	Region	Index	Duplicate
+LLM_211	DrumLib2	LLM	Western Gulf	1	Y
+LLM_211_2	DrumLib2	LLM	Western Gulf	1	Y
+LLM_215	DrumLib2	LLM	Western Gulf	1	N
+LLM_219	DrumLib2	LLM	Western Gulf	1	N
+LLM_220	DrumLib2	LLM	Western Gulf	1	N
+LLM_221	DrumLib2	LLM	Western Gulf	1	N
+LLM_222	DrumLib2	LLM	Western Gulf	1	N
+LLM_224	DrumLib2	LLM	Western Gulf	1	N
+LLM_226	DrumLib2	LLM	Western Gulf	1	N
+LLM_230	DrumLib2	LLM	Western Gulf	1	N
+LLM_232	DrumLib2	LLM	Western Gulf	1	N
+LLM_233	DrumLib2	LLM	Western Gulf	1	N
+LLM_234	DrumLib2	LLM	Western Gulf	1	N
+LLM_236	DrumLib2	LLM	Western Gulf	1	N
+LLM_241	DrumLib2	LLM	Western Gulf	1	N
+LLM_242	DrumLib2	LLM	Western Gulf	1	N
+LLM_243	DrumLib2	LLM	Western Gulf	1	N
+LLM_244	DrumLib2	LLM	Western Gulf	1	N
+LLM_247	DrumLib2	LLM	Western Gulf	1	N
+LLM_248	DrumLib2	LLM	Western Gulf	1	N
+LLM_253	DrumLib2	LLM	Western Gulf	1	N
+LLM_256	DrumLib2	LLM	Western Gulf	1	N
+LLM_257	DrumLib2	LLM	Western Gulf	1	N
+LLM_258	DrumLib2	LLM	Western Gulf	1	N
+LLM_260	DrumLib2	LLM	Western Gulf	1	N
+LLM_264	DrumLib2	LLM	Western Gulf	1	N
+LLM_265	DrumLib2	LLM	Western Gulf	1	N
+LLM_270	DrumLib2	LLM	Western Gulf	1	N
+LLM_271	DrumLib2	LLM	Western Gulf	1	N
+LLM_272	DrumLib2	LLM	Western Gulf	1	N
+LLM_274	DrumLib2	LLM	Western Gulf	1	N
+LLM_275	DrumLib2	LLM	Western Gulf	1	N
+LLM_276	DrumLib2	LLM	Western Gulf	1	N
+LLM_280	DrumLib2	LLM	Western Gulf	4	N
+LLM_281	DrumLib2	LLM	Western Gulf	4	N
+MAT_200	DrumLib2	MAT	Western Gulf	2	N
+MAT_210	DrumLib2	MAT	Western Gulf	2	N
+MAT_213	DrumLib2	MAT	Western Gulf	2	N
+MAT_215	DrumLib2	MAT	Western Gulf	2	N
+MAT_221	DrumLib2	MAT	Western Gulf	2	N
+MAT_224	DrumLib2	MAT	Western Gulf	2	N
+MAT_225	DrumLib2	MAT	Western Gulf	2	N
+MAT_230	DrumLib2	MAT	Western Gulf	2	N
+MAT_231	DrumLib2	MAT	Western Gulf	2	N
+MAT_236	DrumLib2	MAT	Western Gulf	2	N
+MAT_237	DrumLib2	MAT	Western Gulf	2	N
+MAT_239	DrumLib2	MAT	Western Gulf	2	N
+MAT_250	DrumLib2	MAT	Western Gulf	2	N
+MAT_258	DrumLib2	MAT	Western Gulf	2	N
+MAT_263	DrumLib2	MAT	Western Gulf	2	N
+MAT_264	DrumLib2	MAT	Western Gulf	2	N
+MAT_270	DrumLib2	MAT	Western Gulf	2	N
+MAT_279	DrumLib2	MAT	Western Gulf	2	N
+MAT_282	DrumLib2	MAT	Western Gulf	2	N
+MAT_284	DrumLib2	MAT	Western Gulf	2	N
+MAT_293	DrumLib2	MAT	Western Gulf	2	N
+MAT_295	DrumLib2	MAT	Western Gulf	2	N
+MAT_305	DrumLib2	MAT	Western Gulf	2	N
+MAT_306	DrumLib2	MAT	Western Gulf	2	N
+MAT_307	DrumLib2	MAT	Western Gulf	3	Y
+MAT_307_2	DrumLib2	MAT	Western Gulf	3	Y
+MAT_308	DrumLib2	MAT	Western Gulf	3	N
+MAT_309	DrumLib2	MAT	Western Gulf	3	N
+MAT_337	DrumLib2	MAT	Western Gulf	3	N
+MAT_338	DrumLib2	MAT	Western Gulf	3	N
+MAT_341	DrumLib2	MAT	Western Gulf	3	N
+MAT_342	DrumLib2	MAT	Western Gulf	3	N
+MAT_344	DrumLib2	MAT	Western Gulf	3	N
+MAT_353	DrumLib2	MAT	Western Gulf	3	N
+MAT_354	DrumLib2	MAT	Western Gulf	3	N
+MAT_356	DrumLib2	MAT	Western Gulf	3	N
+MAT_358	DrumLib2	MAT	Western Gulf	3	N
+MAT_362	DrumLib2	MAT	Western Gulf	3	N
+MAT_365	DrumLib2	MAT	Western Gulf	3	N
+MAT_370	DrumLib2	MAT	Western Gulf	3	N
+MAT_376	DrumLib2	MAT	Western Gulf	3	N
+MAT_385	DrumLib2	MAT	Western Gulf	3	N
+MAT_386	DrumLib2	MAT	Western Gulf	3	N
+MAT_387	DrumLib2	MAT	Western Gulf	3	N
+MAT_388	DrumLib2	MAT	Western Gulf	3	N
+MAT_389	DrumLib2	MAT	Western Gulf	3	N
+MAT_393	DrumLib2	MAT	Western Gulf	3	N
+MAT_394	DrumLib2	MAT	Western Gulf	3	N
+MAT_403	DrumLib2	MAT	Western Gulf	3	N
+MAT_415	DrumLib2	MAT	Western Gulf	3	N
+MAT_418	DrumLib2	MAT	Western Gulf	3	N
+MAT_419	DrumLib2	MAT	Western Gulf	3	N
+MAT_420	DrumLib2	MAT	Western Gulf	3	N
+MAT_433	DrumLib2	MAT	Western Gulf	3	N
+MAT_435	DrumLib2	MAT	Western Gulf	3	N
+MAT_437	DrumLib2	MAT	Western Gulf	3	N
+MAT_440	DrumLib2	MAT	Western Gulf	3	N
+MAT_443	DrumLib2	MAT	Western Gulf	3	N
+MAT_452	DrumLib2	MAT	Western Gulf	3	N
+MAT_453	DrumLib2	MAT	Western Gulf	3	N
+MAT_465	DrumLib2	MAT	Western Gulf	3	N
+MAT_466	DrumLib2	MAT	Western Gulf	3	N
+MAT_467	DrumLib2	MAT	Western Gulf	3	N
+MAT_469	DrumLib2	MAT	Western Gulf	3	N
+MAT_470	DrumLib2	MAT	Western Gulf	3	N
+SAB_288	DrumLib2	SAB	Western Gulf	1	Y
+SAB_288_2	DrumLib2	SAB	Western Gulf	2	Y
+SAB_293	DrumLib2	SAB	Western Gulf	1	Y
+SAB_299	DrumLib2	SAB	Western Gulf	1	Y
+SAB_313	DrumLib2	SAB	Western Gulf	1	N
+SAB_314	DrumLib2	SAB	Western Gulf	1	N
+SAB_323	DrumLib2	SAB	Western Gulf	1	N
+SAB_331	DrumLib2	SAB	Western Gulf	1	Y
+SAB_336	DrumLib2	SAB	Western Gulf	1	N
+SAB_338	DrumLib2	SAB	Western Gulf	1	Y
+SAB_341	DrumLib2	SAB	Western Gulf	1	Y
+SAB_343	DrumLib2	SAB	Western Gulf	1	Y
+SAB_344	DrumLib2	SAB	Western Gulf	1	N
+SAB_347	DrumLib2	SAB	Western Gulf	2	N
+SAB_349	DrumLib2	SAB	Western Gulf	2	N
+SAB_374	DrumLib2	SAB	Western Gulf	2	N
+SAB_377	DrumLib2	SAB	Western Gulf	2	N
+SAB_378	DrumLib2	SAB	Western Gulf	2	N
+SAB_394	DrumLib2	SAB	Western Gulf	2	N
+SAB_395	DrumLib2	SAB	Western Gulf	2	N
+SAB_400	DrumLib2	SAB	Western Gulf	2	N
+SAB_401	DrumLib2	SAB	Western Gulf	2	N
+SAB_408	DrumLib2	SAB	Western Gulf	2	N
+SAB_410	DrumLib2	SAB	Western Gulf	2	N
+SAB_433	DrumLib2	SAB	Western Gulf	2	N
+SAB_437	DrumLib2	SAB	Western Gulf	2	N
+SAB_440	DrumLib2	SAB	Western Gulf	2	N
+SAB_441	DrumLib2	SAB	Western Gulf	2	N
+SAB_450	DrumLib2	SAB	Western Gulf	2	N
+SAB_455	DrumLib2	SAB	Western Gulf	2	N
+SAB_456	DrumLib2	SAB	Western Gulf	2	N
+SAB_458	DrumLib2	SAB	Western Gulf	2	N
+SAB_459	DrumLib2	SAB	Western Gulf	2	N
+SAB_464	DrumLib2	SAB	Western Gulf	4	N
+SAB_467	DrumLib2	SAB	Western Gulf	4	N
+WAS_001	DrumLib3	WAS	Atlantic	4	Y
+WAS_002	DrumLib3	WAS	Atlantic	4	Y
+WAS_003	DrumLib3	WAS	Atlantic	4	Y
+WAS_004	DrumLib3	WAS	Atlantic	4	Y
+WAS_005	DrumLib3	WAS	Atlantic	4	N
+WAS_006	DrumLib3	WAS	Atlantic	4	N
+WAS_007	DrumLib3	WAS	Atlantic	4	N
+WAS_008	DrumLib3	WAS	Atlantic	4	N
+WAS_009	DrumLib3	WAS	Atlantic	4	Y
+WAS_010	DrumLib3	WAS	Atlantic	4	N
+WAS_011	DrumLib3	WAS	Atlantic	4	N
+WAS_012	DrumLib3	WAS	Atlantic	4	Y
+WAS_013	DrumLib3	WAS	Atlantic	4	N
+WAS_014	DrumLib3	WAS	Atlantic	4	Y
+WAS_015	DrumLib3	WAS	Atlantic	4	Y
+WAS_016	DrumLib3	WAS	Atlantic	4	N
+WAS_017	DrumLib3	WAS	Atlantic	4	N
+WAS_018	DrumLib3	WAS	Atlantic	4	N
+WAS_019	DrumLib3	WAS	Atlantic	4	N
+WAS_020	DrumLib3	WAS	Atlantic	4	N
+WAS_021	DrumLib3	WAS	Atlantic	4	Y
+WAS_022	DrumLib3	WAS	Atlantic	4	N
+WAS_023	DrumLib3	WAS	Atlantic	4	Y
+WAS_024	DrumLib3	WAS	Atlantic	4	Y
+WAS_025	DrumLib3	WAS	Atlantic	4	Y
+WAS_026	DrumLib3	WAS	Atlantic	4	N
+WAS_027	DrumLib3	WAS	Atlantic	4	Y
+WAS_028	DrumLib3	WAS	Atlantic	4	Y
+WAS_029	DrumLib3	WAS	Atlantic	4	Y
+WAS_030	DrumLib3	WAS	Atlantic	4	N
+WAS_031	DrumLib3	WAS	Atlantic	4	Y
+WAS_032	DrumLib3	WAS	Atlantic	4	Y
+WAS_033	DrumLib3	WAS	Atlantic	3	N
+WAS_034	DrumLib3	WAS	Atlantic	3	N
+HAR_001	DrumLib4	HAR	Atlantic	3	N
+HAR_002	DrumLib4	HAR	Atlantic	3	Y
+HAR_003	DrumLib4	HAR	Atlantic	3	N
+HAR_004	DrumLib4	HAR	Atlantic	3	N
+HAR_005	DrumLib4	HAR	Atlantic	3	N
+HAR_006	DrumLib4	HAR	Atlantic	3	Y
+HAR_007	DrumLib4	HAR	Atlantic	3	N
+HAR_008	DrumLib4	HAR	Atlantic	3	N
+HAR_009	DrumLib4	HAR	Atlantic	3	Y
+HAR_010	DrumLib4	HAR	Atlantic	3	Y
+HAR_011	DrumLib4	HAR	Atlantic	3	N
+HAR_012	DrumLib4	HAR	Atlantic	3	N
+HAR_013	DrumLib4	HAR	Atlantic	3	N
+HAR_014	DrumLib4	HAR	Atlantic	3	N
+HAR_015	DrumLib4	HAR	Atlantic	3	Y
+HAR_016	DrumLib4	HAR	Atlantic	3	N
+HAR_017	DrumLib4	HAR	Atlantic	3	N
+HAR_018	DrumLib4	HAR	Atlantic	3	N
+HAR_019	DrumLib4	HAR	Atlantic	3	N
+HAR_020	DrumLib4	HAR	Atlantic	4	Y
+HAR_021	DrumLib4	HAR	Atlantic	4	N
+HAR_022	DrumLib4	HAR	Atlantic	4	N
+HAR_023	DrumLib4	HAR	Atlantic	4	Y
+HAR_024	DrumLib4	HAR	Atlantic	4	N
+HAR_025	DrumLib4	HAR	Atlantic	4	Y
+HAR_026	DrumLib4	HAR	Atlantic	4	N
+HAR_027	DrumLib4	HAR	Atlantic	4	N
+HAR_028	DrumLib4	HAR	Atlantic	4	Y
+HAR_029	DrumLib4	HAR	Atlantic	4	Y
+HAR_030	DrumLib4	HAR	Atlantic	4	Y
+LLM_212	DrumLib4	LLM	Western Gulf	4	Y
+LLM_212-2	DrumLib4	LLM	Western Gulf	4	Y
+LLM_213	DrumLib4	LLM	Western Gulf	4	N
+LLM_214	DrumLib4	LLM	Western Gulf	4	N
+LLM_217	DrumLib4	LLM	Western Gulf	4	N
+LLM_218	DrumLib4	LLM	Western Gulf	4	N
+LLM_223	DrumLib4	LLM	Western Gulf	4	N
+LLM_225	DrumLib4	LLM	Western Gulf	4	N
+LLM_227	DrumLib4	LLM	Western Gulf	4	N
+LLM_228	DrumLib4	LLM	Western Gulf	4	N
+LLM_229	DrumLib4	LLM	Western Gulf	4	N
+LLM_231	DrumLib4	LLM	Western Gulf	4	N
+LLM_238	DrumLib4	LLM	Western Gulf	4	N
+LLM_239	DrumLib4	LLM	Western Gulf	4	N
+LLM_240	DrumLib4	LLM	Western Gulf	4	N
+LLM_245	DrumLib4	LLM	Western Gulf	4	N
+LLM_246	DrumLib4	LLM	Western Gulf	4	N
+LLM_249	DrumLib4	LLM	Western Gulf	4	N
+LLM_250	DrumLib4	LLM	Western Gulf	4	N
+LLM_252	DrumLib4	LLM	Western Gulf	4	N
+LLM_254	DrumLib4	LLM	Western Gulf	4	N
+LLM_255	DrumLib4	LLM	Western Gulf	4	N
+LLM_259	DrumLib4	LLM	Western Gulf	4	N
+LLM_263	DrumLib4	LLM	Western Gulf	4	N
+LLM_266	DrumLib4	LLM	Western Gulf	4	N
+LLM_267	DrumLib4	LLM	Western Gulf	4	N
+LLM_268	DrumLib4	LLM	Western Gulf	4	N
+LLM_269	DrumLib4	LLM	Western Gulf	4	N
+LLM_273	DrumLib4	LLM	Western Gulf	4	N
+LLM_277	DrumLib4	LLM	Western Gulf	4	N
+LLM_279	DrumLib4	LLM	Western Gulf	4	N
+SCA_001	DrumLib4	SCA	Atlantic	1	Y
+SCA_001-2	DrumLib4	SCA	Atlantic	1	Y
+SCA_002	DrumLib4	SCA	Atlantic	1	N
+SCA_003	DrumLib4	SCA	Atlantic	1	N
+SCA_004	DrumLib4	SCA	Atlantic	1	N
+SCA_005	DrumLib4	SCA	Atlantic	1	N
+SCA_006	DrumLib4	SCA	Atlantic	1	N
+SCA_007	DrumLib4	SCA	Atlantic	1	N
+SCA_008	DrumLib4	SCA	Atlantic	1	N
+SCA_009	DrumLib4	SCA	Atlantic	1	N
+SCA_010	DrumLib4	SCA	Atlantic	1	N
+SCA_011	DrumLib4	SCA	Atlantic	1	N
+SCA_012	DrumLib4	SCA	Atlantic	1	N
+SCA_013	DrumLib4	SCA	Atlantic	1	N
+SCA_014	DrumLib4	SCA	Atlantic	1	N
+SCA_015	DrumLib4	SCA	Atlantic	1	N
+SCA_016	DrumLib4	SCA	Atlantic	1	N
+SCA_017	DrumLib4	SCA	Atlantic	1	N
+SCA_018	DrumLib4	SCA	Atlantic	1	N
+SCA_019	DrumLib4	SCA	Atlantic	1	N
+SCA_020	DrumLib4	SCA	Atlantic	1	N
+SCA_021	DrumLib4	SCA	Atlantic	1	N
+SCA_022	DrumLib4	SCA	Atlantic	1	N
+SCA_023	DrumLib4	SCA	Atlantic	1	N
+SCA_024	DrumLib4	SCA	Atlantic	1	N
+SCA_025	DrumLib4	SCA	Atlantic	1	N
+SCA_026	DrumLib4	SCA	Atlantic	1	N
+SCA_027	DrumLib4	SCA	Atlantic	1	N
+SCA_028	DrumLib4	SCA	Atlantic	1	N
+SCA_029	DrumLib4	SCA	Atlantic	1	N
+SCA_030	DrumLib4	SCA	Atlantic	1	N
+SCA_031	DrumLib4	SCA	Atlantic	1	N
+SCA_032	DrumLib4	SCA	Atlantic	1	N
+SCA_033	DrumLib4	SCA	Atlantic	1	N
+SCA_034	DrumLib4	SCA	Atlantic	1	N
+SCA_035	DrumLib4	SCA	Atlantic	1	N
+SCA_036	DrumLib4	SCA	Atlantic	1	N
+SCA_037	DrumLib4	SCA	Atlantic	1	N
+SCA_038	DrumLib4	SCA	Atlantic	1	N
+SCA_039	DrumLib4	SCA	Atlantic	1	N
+SCA_040	DrumLib4	SCA	Atlantic	1	N
+SCA_041	DrumLib4	SCA	Atlantic	1	N
+SCA_042	DrumLib4	SCA	Atlantic	2	N
+SCA_043	DrumLib4	SCA	Atlantic	2	N
+SCA_044	DrumLib4	SCA	Atlantic	2	N
+SCA_045	DrumLib4	SCA	Atlantic	2	N
+SCA_046	DrumLib4	SCA	Atlantic	2	N
+SCA_047	DrumLib4	SCA	Atlantic	2	N
+SCA_048	DrumLib4	SCA	Atlantic	2	N
+SCA_049	DrumLib4	SCA	Atlantic	2	N
+SCA_050	DrumLib4	SCA	Atlantic	2	N
+SCA_051	DrumLib4	SCA	Atlantic	2	N
+SCA_052	DrumLib4	SCA	Atlantic	2	N
+SCA_053	DrumLib4	SCA	Atlantic	2	N
+SCA_054	DrumLib4	SCA	Atlantic	2	N
+SCA_055	DrumLib4	SCA	Atlantic	2	N
+SCA_056	DrumLib4	SCA	Atlantic	2	N
+SCA_057	DrumLib4	SCA	Atlantic	2	N
+SCA_058	DrumLib4	SCA	Atlantic	2	N
+SCA_059	DrumLib4	SCA	Atlantic	2	N
+SCA_060	DrumLib4	SCA	Atlantic	2	N
+SCA_061	DrumLib4	SCA	Atlantic	2	N
+SCA_062	DrumLib4	SCA	Atlantic	2	N
+CEK_001	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_002	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_003	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_004	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_005	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_006	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_007	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_008	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_009	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_010	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_011	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_012	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_013	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_014	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_015	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_016	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_017	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_018	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_019	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_020	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_021	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_022	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_023	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_024	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_025	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_026	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_027	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_028	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_029	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_030	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_031	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_032	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_033	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_034	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_035	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_036	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_037	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_038	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_039	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_040	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_041	DrumLib5	CEK	Eastern Gulf	2	N
+CEK_042	DrumLib5	CEK	Eastern Gulf	3	N
+CEK_043	DrumLib5	CEK	Eastern Gulf	3	N
+CEK_044	DrumLib5	CEK	Eastern Gulf	3	N
+CEK_045	DrumLib5	CEK	Eastern Gulf	3	N
+CEK_046	DrumLib5	CEK	Eastern Gulf	3	N
+CEK_047	DrumLib5	CEK	Eastern Gulf	3	N
+CEK_048	DrumLib5	CEK	Eastern Gulf	3	N
+CEK_049	DrumLib5	CEK	Eastern Gulf	3	N
+CEK_050	DrumLib5	CEK	Eastern Gulf	3	N
+CHA_001	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_002	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_003	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_004	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_005	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_006	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_007	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_008	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_009	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_010	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_011	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_012	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_013	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_014	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_015	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_016	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_017	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_018	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_019	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_020	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_021	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_022	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_023	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_024	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_025	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_026	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_027	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_028	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_029	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_030	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_031	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_032	DrumLib5	CHA	Eastern Gulf	3	N
+CHA_033	DrumLib5	CHA	Eastern Gulf	4	N
+CHA_046	DrumLib5	CHA	Eastern Gulf	4	N
+CHA_047	DrumLib5	CHA	Eastern Gulf	4	N
+CHA_048	DrumLib5	CHA	Eastern Gulf	4	N
+IND_001	DrumLib5	IND	Atlantic	4	N
+IND_002	DrumLib5	IND	Atlantic	4	N
+IND_003	DrumLib5	IND	Atlantic	4	N
+IND_004	DrumLib5	IND	Atlantic	4	N
+IND_005	DrumLib5	IND	Atlantic	4	N
+IND_006	DrumLib5	IND	Atlantic	4	N
+IND_007	DrumLib5	IND	Atlantic	4	N
+IND_008	DrumLib5	IND	Atlantic	4	N
+IND_009	DrumLib5	IND	Atlantic	4	N
+IND_010	DrumLib5	IND	Atlantic	4	N
+IND_011	DrumLib5	IND	Atlantic	4	N
+IND_012	DrumLib5	IND	Atlantic	4	N
+IND_013	DrumLib5	IND	Atlantic	4	N
+IND_015	DrumLib5	IND	Atlantic	4	N
+IND_016	DrumLib5	IND	Atlantic	4	N
+IND_017	DrumLib5	IND	Atlantic	4	N
+IND_018	DrumLib5	IND	Atlantic	4	N
+IND_019	DrumLib5	IND	Atlantic	4	N
+IND_020	DrumLib5	IND	Atlantic	4	N
+IND_021	DrumLib5	IND	Atlantic	4	N
+IND_022	DrumLib5	IND	Atlantic	4	N
+IND_023	DrumLib5	IND	Atlantic	4	N
+IND_024	DrumLib5	IND	Atlantic	4	N
+IND_025	DrumLib5	IND	Atlantic	4	N
+IND_026	DrumLib5	IND	Atlantic	4	N
+IND_027	DrumLib5	IND	Atlantic	4	N
+IND_028	DrumLib5	IND	Atlantic	4	N
+IND_030	DrumLib5	IND	Atlantic	4	N
+IND_031	DrumLib5	IND	Atlantic	4	N
+IND_032	DrumLib5	IND	Atlantic	4	N
+IND_036	DrumLib5	IND	Atlantic	4	N
+IND_042	DrumLib5	IND	Atlantic	4	N
+IND_043	DrumLib5	IND	Atlantic	4	N
+IND_044	DrumLib5	IND	Atlantic	4	N
+IND_045	DrumLib5	IND	Atlantic	4	N
+IND_046	DrumLib5	IND	Atlantic	4	N
+IND_050	DrumLib5	IND	Atlantic	4	N
+MIS_006	DrumLib5	MIS	Western Gulf	1	Y
+MIS_009	DrumLib5	MIS	Western Gulf	1	Y
+MIS_010	DrumLib5	MIS	Western Gulf	1	Y
+MIS_011	DrumLib5	MIS	Western Gulf	1	Y
+MIS_013	DrumLib5	MIS	Western Gulf	1	Y
+MIS_014	DrumLib5	MIS	Western Gulf	1	Y
+MIS_015	DrumLib5	MIS	Western Gulf	1	Y
+MIS_016	DrumLib5	MIS	Western Gulf	1	Y
+MIS_017	DrumLib5	MIS	Western Gulf	1	Y
+MIS_018	DrumLib5	MIS	Western Gulf	1	Y
+MIS_019	DrumLib5	MIS	Western Gulf	1	Y
+MIS_020	DrumLib5	MIS	Western Gulf	1	Y
+MIS_021	DrumLib5	MIS	Western Gulf	1	Y
+MIS_022	DrumLib5	MIS	Western Gulf	1	Y
+MIS_023	DrumLib5	MIS	Western Gulf	1	Y
+MIS_025	DrumLib5	MIS	Western Gulf	1	Y
+MIS_026	DrumLib5	MIS	Western Gulf	1	Y
+MIS_027	DrumLib5	MIS	Western Gulf	1	Y
+MIS_028	DrumLib5	MIS	Western Gulf	1	Y
+MIS_029	DrumLib5	MIS	Western Gulf	1	Y
+MIS_030	DrumLib5	MIS	Western Gulf	1	Y
+MIS_031	DrumLib5	MIS	Western Gulf	1	Y
+MIS_032	DrumLib5	MIS	Western Gulf	1	Y
+MIS_033	DrumLib5	MIS	Western Gulf	1	Y
+MIS_034	DrumLib5	MIS	Western Gulf	1	Y
+MIS_035	DrumLib5	MIS	Western Gulf	1	Y
+MIS_036	DrumLib5	MIS	Western Gulf	1	Y
+MIS_037	DrumLib5	MIS	Western Gulf	1	Y
+MIS_038	DrumLib5	MIS	Western Gulf	1	Y
+MIS_039	DrumLib5	MIS	Western Gulf	1	Y
+MIS_040	DrumLib5	MIS	Western Gulf	1	Y
+MIS_041	DrumLib5	MIS	Western Gulf	1	Y
+MIS_042	DrumLib5	MIS	Western Gulf	1	Y
+MIS_043	DrumLib5	MIS	Western Gulf	1	Y
+APA_001	DrumLib6	APA	Eastern Gulf	4	N
+APA_002	DrumLib6	APA	Eastern Gulf	4	N
+APA_003	DrumLib6	APA	Eastern Gulf	4	N
+APA_004	DrumLib6	APA	Eastern Gulf	4	N
+APA_005	DrumLib6	APA	Eastern Gulf	4	Y
+APA_006	DrumLib6	APA	Eastern Gulf	4	Y
+APA_007	DrumLib6	APA	Eastern Gulf	4	N
+APA_008	DrumLib6	APA	Eastern Gulf	4	N
+APA_009	DrumLib6	APA	Eastern Gulf	4	N
+APA_010	DrumLib6	APA	Eastern Gulf	4	N
+APA_011	DrumLib6	APA	Eastern Gulf	4	N
+APA_012	DrumLib6	APA	Eastern Gulf	4	Y
+APA_013	DrumLib6	APA	Eastern Gulf	4	N
+APA_014	DrumLib6	APA	Eastern Gulf	4	N
+APA_015	DrumLib6	APA	Eastern Gulf	4	N
+APA_016	DrumLib6	APA	Eastern Gulf	4	N
+APA_017	DrumLib6	APA	Eastern Gulf	4	N
+APA_018	DrumLib6	APA	Eastern Gulf	4	N
+APA_019	DrumLib6	APA	Eastern Gulf	4	N
+APA_020	DrumLib6	APA	Eastern Gulf	4	N
+APA_021	DrumLib6	APA	Eastern Gulf	4	N
+APA_022	DrumLib6	APA	Eastern Gulf	4	N
+APA_023	DrumLib6	APA	Eastern Gulf	4	N
+APA_024	DrumLib6	APA	Eastern Gulf	4	Y
+APA_025	DrumLib6	APA	Eastern Gulf	4	Y
+APA_026	DrumLib6	APA	Eastern Gulf	4	N
+APA_027	DrumLib6	APA	Eastern Gulf	4	N
+APA_028	DrumLib6	APA	Eastern Gulf	4	N
+LM2_001	DrumLib6	LM2	Western Gulf	2	N
+LM2_002	DrumLib6	LM2	Western Gulf	2	N
+LM2_003	DrumLib6	LM2	Western Gulf	2	N
+LM2_004	DrumLib6	LM2	Western Gulf	2	N
+LM2_005	DrumLib6	LM2	Western Gulf	2	N
+LM2_008	DrumLib6	LM2	Western Gulf	2	N
+LM2_011	DrumLib6	LM2	Western Gulf	2	N
+LM2_012	DrumLib6	LM2	Western Gulf	2	N
+LM2_013	DrumLib6	LM2	Western Gulf	2	N
+LM2_014	DrumLib6	LM2	Western Gulf	2	N
+LM2_015	DrumLib6	LM2	Western Gulf	2	N
+LM2_016	DrumLib6	LM2	Western Gulf	2	N
+LM2_017	DrumLib6	LM2	Western Gulf	2	N
+LM2_018	DrumLib6	LM2	Western Gulf	2	N
+LM2_019	DrumLib6	LM2	Western Gulf	2	N
+LM2_020	DrumLib6	LM2	Western Gulf	2	N
+LM2_021	DrumLib6	LM2	Western Gulf	2	N
+LM2_022	DrumLib6	LM2	Western Gulf	2	N
+LM2_023	DrumLib6	LM2	Western Gulf	2	N
+LM2_024	DrumLib6	LM2	Western Gulf	2	N
+LM2_025	DrumLib6	LM2	Western Gulf	2	N
+LM2_026	DrumLib6	LM2	Western Gulf	2	N
+LM2_027	DrumLib6	LM2	Western Gulf	2	N
+LM2_028	DrumLib6	LM2	Western Gulf	2	N
+LM2_029	DrumLib6	LM2	Western Gulf	2	N
+LM2_031	DrumLib6	LM2	Western Gulf	2	N
+LM2_032	DrumLib6	LM2	Western Gulf	2	N
+LM2_033	DrumLib6	LM2	Western Gulf	2	N
+LM2_034	DrumLib6	LM2	Western Gulf	2	N
+LM2_035	DrumLib6	LM2	Western Gulf	2	N
+LM2_036	DrumLib6	LM2	Western Gulf	2	N
+LM2_037	DrumLib6	LM2	Western Gulf	3	N
+LM2_039	DrumLib6	LM2	Western Gulf	3	N
+LM2_040	DrumLib6	LM2	Western Gulf	3	N
+LM2_042	DrumLib6	LM2	Western Gulf	3	N
+LM2_043	DrumLib6	LM2	Western Gulf	3	N
+LM2_044	DrumLib6	LM2	Western Gulf	3	N
+LM2_045	DrumLib6	LM2	Western Gulf	3	N
+LM2_046	DrumLib6	LM2	Western Gulf	3	N
+LM2_047	DrumLib6	LM2	Western Gulf	3	N
+LM2_048	DrumLib6	LM2	Western Gulf	3	N
+MB2_001	DrumLib6	MB2	Western Gulf	3	N
+MB2_002	DrumLib6	MB2	Western Gulf	3	N
+MB2_003	DrumLib6	MB2	Western Gulf	3	N
+MB2_004	DrumLib6	MB2	Western Gulf	3	N
+MB2_005	DrumLib6	MB2	Western Gulf	3	N
+MB2_006	DrumLib6	MB2	Western Gulf	3	N
+MB2_007	DrumLib6	MB2	Western Gulf	3	N
+MB2_008	DrumLib6	MB2	Western Gulf	3	N
+MB2_009	DrumLib6	MB2	Western Gulf	3	N
+MB2_010	DrumLib6	MB2	Western Gulf	3	N
+MB2_011	DrumLib6	MB2	Western Gulf	3	N
+MB2_012	DrumLib6	MB2	Western Gulf	3	N
+MB2_013	DrumLib6	MB2	Western Gulf	3	N
+MB2_014	DrumLib6	MB2	Western Gulf	3	N
+MB2_015	DrumLib6	MB2	Western Gulf	3	N
+MB2_016	DrumLib6	MB2	Western Gulf	3	N
+MB2_017	DrumLib6	MB2	Western Gulf	3	N
+MB2_018	DrumLib6	MB2	Western Gulf	3	N
+MB2_019	DrumLib6	MB2	Western Gulf	3	N
+MB2_020	DrumLib6	MB2	Western Gulf	3	N
+MB2_021	DrumLib6	MB2	Western Gulf	3	N
+MB2_022	DrumLib6	MB2	Western Gulf	3	N
+MB2_023	DrumLib6	MB2	Western Gulf	3	N
+MB2_024	DrumLib6	MB2	Western Gulf	3	N
+MB2_025	DrumLib6	MB2	Western Gulf	3	N
+MB2_026	DrumLib6	MB2	Western Gulf	3	N
+MB2_027	DrumLib6	MB2	Western Gulf	3	N
+MB2_028	DrumLib6	MB2	Western Gulf	3	N
+MB2_029	DrumLib6	MB2	Western Gulf	3	N
+MB2_030	DrumLib6	MB2	Western Gulf	3	N
+MB2_031	DrumLib6	MB2	Western Gulf	3	N
+MB2_032	DrumLib6	MB2	Western Gulf	3	N
+MB2_033	DrumLib6	MB2	Western Gulf	3	N
+MB2_034	DrumLib6	MB2	Western Gulf	3	N
+MB2_035	DrumLib6	MB2	Western Gulf	4	N
+MB2_036	DrumLib6	MB2	Western Gulf	4	N
+MB2_037	DrumLib6	MB2	Western Gulf	4	N
+MB2_038	DrumLib6	MB2	Western Gulf	4	N
+MB2_040	DrumLib6	MB2	Western Gulf	4	N
+MB2_041	DrumLib6	MB2	Western Gulf	4	N
+MB2_042	DrumLib6	MB2	Western Gulf	4	N
+MB2_043	DrumLib6	MB2	Western Gulf	4	N
+MB2_044	DrumLib6	MB2	Western Gulf	4	N
+MB2_045	DrumLib6	MB2	Western Gulf	4	N
+MB2_046	DrumLib6	MB2	Western Gulf	4	N
+MB2_047	DrumLib6	MB2	Western Gulf	4	N
+MB2_048	DrumLib6	MB2	Western Gulf	4	N
+MB2_049	DrumLib6	MB2	Western Gulf	4	N
+MB2_050	DrumLib6	MB2	Western Gulf	4	N
+MDC_0777	DrumLib6	MDC	NA	1	N
+MDC_0978	DrumLib6	MDC	NA	2	N
+MDC_1568	DrumLib6	MDC	NA	1	N
+MDC_1798	DrumLib6	MDC	NA	2	N
+MDC_3069	DrumLib6	MDC	NA	1	N
+MDC_3160	DrumLib6	MDC	NA	1	N
+MDC_3584	DrumLib6	MDC	NA	1	N
+MDC_3680	DrumLib6	MDC	NA	1	N
+MDC_3875	DrumLib6	MDC	NA	1	N
+MDC_4046	DrumLib6	MDC	NA	1	N
+MDC_4049	DrumLib6	MDC	NA	2	N
+MDC_4083	DrumLib6	MDC	NA	1	N
+MDC_4087	DrumLib6	MDC	NA	2	N
+MDC_4098	DrumLib6	MDC	NA	1	N
+MDC_4112	DrumLib6	MDC	NA	2	N
+MDC_4134	DrumLib6	MDC	NA	1	N
+MDC_4136	DrumLib6	MDC	NA	1	N
+MDC_4138	DrumLib6	MDC	NA	1	N
+MDC_4140	DrumLib6	MDC	NA	1	N
+MDC_4142	DrumLib6	MDC	NA	1	N
+MDC_4145	DrumLib6	MDC	NA	1	N
+MDC_4147	DrumLib6	MDC	NA	1	N
+MDC_4154	DrumLib6	MDC	NA	1	N
+MDC_4162	DrumLib6	MDC	NA	1	N
+MDC_4163	DrumLib6	MDC	NA	2	N
+MDC_4528	DrumLib6	MDC	NA	1	N
+MDC_4882	DrumLib6	MDC	NA	1	N
+MDC_5123	DrumLib6	MDC	NA	1	N
+MDC_5171	DrumLib6	MDC	NA	1	N
+MDC_5341	DrumLib6	MDC	NA	1	N
+MDC_5493	DrumLib6	MDC	NA	1	N
+MDC_5652	DrumLib6	MDC	NA	2	N
+MDC_5687	DrumLib6	MDC	NA	1	N
+MDC_5905	DrumLib6	MDC	NA	1	N
+MDC_6231	DrumLib6	MDC	NA	2	N
+MDC_6310	DrumLib6	MDC	NA	1	N
+MDC_6349	DrumLib6	MDC	NA	2	N
+MDC_6392	DrumLib6	MDC	NA	1	N
+MDC_6566	DrumLib6	MDC	NA	1	N
+MDC_7017	DrumLib6	MDC	NA	2	N
+MDC_7063	DrumLib6	MDC	NA	1	N
+MDC_7208	DrumLib6	MDC	NA	2	N
+MDC_7452	DrumLib6	MDC	NA	1	N
+MDC_7930	DrumLib6	MDC	NA	1	N
+MDC_8141	DrumLib6	MDC	NA	1	N
+MDC_8141	DrumLib6	MDC	NA	2	N
+MDC_8155	DrumLib6	MDC	NA	1	N
+MDC_8155	DrumLib6	MDC	NA	1	N
+MDC_8160	DrumLib6	MDC	NA	1	N
+MDC_8382	DrumLib6	MDC	NA	1	N
+MDC_8573	DrumLib6	MDC	NA	2	N
+MDC_8674	DrumLib6	MDC	NA	1	N
+MDC_8792	DrumLib6	MDC	NA	1	N
+MDC_9023	DrumLib6	MDC	NA	1	N
+MDC_9436	DrumLib6	MDC	NA	1	N
+MDC_9908	DrumLib6	MDC	NA	1	N
+MDC_9923	DrumLib6	MDC	NA	1	N

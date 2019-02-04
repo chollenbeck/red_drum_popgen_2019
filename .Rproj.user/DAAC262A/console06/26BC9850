@@ -1,0 +1,19 @@
+]0;/home/chollenbeck/Dropbox/work/projects/red_drum_popgen_2019(base) ]0;chollenbeck@zaphod: ~/Dropbox/work/projects/red_drum_popgen_2019[01;32mchollenbeck@zaphod[00m:[01;34m~/Dropbox/work/projects/red_drum_popgen_2019[00m$ git init
+Initialised empty Git repository in /home/chollenbeck/Dropbox/work/projects/red_drum_popgen_2019/.git/
+]0;/home/chollenbeck/Dropbox/work/projects/red_drum_popgen_2019(base) ]0;chollenbeck@zaphod: ~/Dropbox/work/projects/red_drum_popgen_2019[01;32mchollenbeck@zaphod[00m:[01;34m~/Dropbox/work/projects/red_drum_popgen_2019[00m$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/[m
+	[31mR/[m
+	[31mREADME.md[m
+	[31mdata/[m
+	[31mout/[m
+	[31mred_drum_popgen_2019.Rproj[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;/home/chollenbeck/Dropbox/work/projects/red_drum_popgen_2019(base) ]0;chollenbeck@zaphod: ~/Dropbox/work/projects/red_drum_popgen_2019[01;32mchollenbeck@zaphod[00m:[01;34m~/Dropbox/work/projects/red_drum_popgen_2019[00m$ git add .

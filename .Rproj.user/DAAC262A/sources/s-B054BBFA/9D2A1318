@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549296384927.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3196876235",
+    "id" : "9D2A1318",
+    "lastKnownWriteTime" : 1549296465,
+    "last_content_update" : 1549296465498,
+    "path" : "~/Dropbox/work/projects/red_drum_popgen_2019/R/functions.R",
+    "project_path" : "R/functions.R",
+    "properties" : {
+        "cursorPosition" : "4,5",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
